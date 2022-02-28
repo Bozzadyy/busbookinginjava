@@ -1,0 +1,9 @@
+HOW TO IMPORT DATABASE
+
+1. Create database name db_userdetails under utf8mb4_unicode_ci
+2. Go to import
+3. Select sql file name db_userdetails
+4. Press go
+5. Try Java project now
+
+Thanks!!
